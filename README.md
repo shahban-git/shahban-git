@@ -1,7 +1,6 @@
 - 👋 Hi, I’m khan shahban
 - 👀 I’m interested in entry level position as a full stack developer
 - 🌱 I’m currently learning node, mongoDb, express, react js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mail = kshahban209@gmail.com 
 
 <!---
