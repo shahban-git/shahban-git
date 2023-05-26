@@ -1,6 +1,6 @@
 - 👋 Hi, I’m khan shahban
--    working as jr software developer
--    my skills are node,express,mongodb,mongoose,mysql
+-    jr software developer
+-    my skills are Javascript Reactjs angualr node express, mongodb, oracledb, postgrey
 -   📫 How to reach me @mail = kshahban209@gmail.com 
 
 <!---
