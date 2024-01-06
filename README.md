@@ -1,9 +1,1 @@
-- 👋 Hi, I’m khan shahban
--    jr software developer
--    my skills are Javascript Reactjs angualr node express, mongodb, oracledb, postgrey
--   📫 How to reach me @mail = kshahban209@gmail.com 
-
-<!---
-shahban-git/shahban-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a dynamic Software Engineer, I possess expertise in a wide range of technologies, including React, Node.js, Angular, MongoDB, and Oracle DB. These cutting-edge tools allow me to craft powerful and sophisticated applications that cater to diverse user needs.
